@@ -4,4 +4,4 @@ while i > 0
   puts i
   i -= 1
 end
-puts "Happy New Year"
+puts "Happy New Year!"
